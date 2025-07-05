@@ -3,9 +3,14 @@
 Knowledge check:
   - HTML boilerplate
   - Git basics
-  - Paragraphs
   - Hyperlinks 
   - Embedding images
-  - Ordered lists
-  - Unordered lists
   - Headings
+  - Lists:
+    - Ordered lists
+    - Unordered lists
+  - Styling text:
+    - paragraphs
+    - strong
+    - em
+  - Nesting Elements
